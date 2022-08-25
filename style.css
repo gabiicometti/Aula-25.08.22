@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.nav{
+ float: right; 
+  margin-right: 10px;
+}
+
+.inicial{
+  margin-left: 10px;
+}
+
+.astronauta{
+  margin-left: 10px;
+}
